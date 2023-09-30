@@ -1,0 +1,43 @@
+.MU1
+{
+	background-color: #7389fa;
+}
+.MU2{
+    background-color: darkgray ;
+    position: relative;
+    top: 50px;
+    padding: 20px 20px 20px 20px;
+    border: 1 px solid black;
+    
+}
+.AM1
+{
+
+	text-align: center;
+	text-align: bottom;
+	background-color: #f5eb90;
+	padding-bottom: 20px;
+	padding-top: 10px;
+
+}
+
+.AM2
+{
+
+	text-align: center;
+	position: relative;
+	background-color: #b9f590;
+	padding-bottom: 40px;
+	padding-top: 10px;
+
+}
+.AM3
+{
+
+	background-color: darkgray ;
+    position: relative;
+    top: 50px;
+    padding: 20px 20px 20px 20px;
+    border: 1 px solid black;
+
+}

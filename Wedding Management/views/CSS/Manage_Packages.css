@@ -1,0 +1,23 @@
+.MP
+{
+	text-align: center;
+	text-align: bottom;
+	background-color: #74ed94;
+	padding-bottom: 170px;
+	padding-top: 20px;
+}
+.Mfooter{
+    background-color: darkgray ;
+    position: relative;
+    
+    padding: 8px 8px 8px 8px;
+    border: 1 px solid black;
+    
+}
+.MP2
+{
+	background-color: #0cf5af;
+	padding-bottom: 6px;
+	padding-top: 10px;
+	
+}

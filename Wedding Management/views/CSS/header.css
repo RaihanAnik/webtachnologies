@@ -1,0 +1,9 @@
+.sticky_header
+{
+	 border-top: 1px solid;
+    text-align: center;
+    font-weight: bold;
+    font-size: 26px;
+    padding-top: 5px;
+    background-color: #50e7f2;
+}

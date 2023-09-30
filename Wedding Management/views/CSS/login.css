@@ -1,0 +1,75 @@
+body { 
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f1f1f1;
+}
+
+.box
+{
+  text-align: center;
+  background-color: #ddd;
+  width: 300px;
+  border: 5px solid tomato;
+  padding: 50px;
+  margin: auto;
+  box-sizing: content-box;
+}
+
+.registration a{
+  float: center;
+  color: black;
+}
+
+.registration a:hover{
+  color: tomato;
+}
+
+.forgot_password a{
+  float: center;
+  color: black;
+}
+
+.forgot_password a:hover{
+  color: red;
+}
+
+
+input[type=text], select {
+  
+  padding: auto;
+  margin: auto;
+  height: 30px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=password], select {
+  
+  padding: auto;
+  margin: auto;
+  height: 30px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+ 
+  font-weight: bold;
+  cursor: pointer;
+  float: center;  
+  text-align: center;
+  padding: 8px;
+  text-decoration: none;
+  font-size: 18px; 
+  line-height: auto;
+  border-radius: 4px;
+}
+
+input[type=submit]:hover {  
+  background-color: tomato;
+  color: black;
+}

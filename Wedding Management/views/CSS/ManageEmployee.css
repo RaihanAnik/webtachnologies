@@ -1,0 +1,24 @@
+.ME1
+{
+	text-align: center;
+	text-align: bottom;
+	background-color: #f5eb90;
+	padding-bottom: 160px;
+	padding-top: 20px;
+}
+.ME2
+{
+	background-color: #b9f576;
+	padding-bottom: 6px;
+	padding-top: 10px;
+	
+}
+.ME3
+{
+    background-color: darkgray ;
+    position: relative;
+    
+    padding: 8px 8px 8px 8px;
+    border: 1 px solid black;
+    
+}

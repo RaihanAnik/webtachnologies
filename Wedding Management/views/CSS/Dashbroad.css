@@ -1,0 +1,59 @@
+.Dbody{
+    border-bottom: solid;
+   font-display: 400;
+   top: 0px;
+   left: 4000;
+    bottom: 300px;
+    position: relative;
+    padding-bottom: 90;
+    padding-left: 500;
+    font-size: 30;
+    
+    background-color: #f7fa98;
+}
+
+h2{
+    border-top: 1px solid;
+    text-align: center;
+    font-weight: bold;
+    font-size: 26px;
+    padding-top: 5px;
+}
+.center
+{
+    background-color: #f0fcc7;
+}
+.dashboard{
+    border: none;
+    display: inline-block;
+    position: relative;
+    left: 448px;
+    top: 50px;
+    bottom: 50px;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    padding-right: 65px;
+    padding-left: 50px;
+    background-color:#6fdeae;
+    text-transform: uppercase;
+
+}
+.DS1
+{
+    background-color: red;
+}
+.fe 
+{
+     border-top: 1px solid;
+    text-align: center;
+    font-weight: bold;
+    font-size: 26px;
+    padding-top: 5px;
+    background-color: #50e7f2;
+}
+.lfooter{
+    background-color: darkgray ;
+    position: relative;
+    top: 30px;
+    padding: 20px 20px 20px 20px;
+    border: 1 px solid black;

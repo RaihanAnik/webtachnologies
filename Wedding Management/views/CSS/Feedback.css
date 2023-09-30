@@ -1,0 +1,21 @@
+.FB1
+{
+	background-color: #b9f576;
+	padding-bottom: 6px;
+	padding-top: 10px;
+}
+.FB2
+{
+	text-align: center;
+	background-color:#edf5ef;
+	padding-bottom: 80px;
+	padding-top: 10px;
+}
+.FB3{
+    background-color: darkgray ;
+    position: relative;
+    top: 50px;
+    padding: 20px 20px 20px 20px;
+    border: 1 px solid black;
+    
+}

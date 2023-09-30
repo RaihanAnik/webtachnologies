@@ -1,0 +1,65 @@
+.MU1
+{
+	text-align: center;
+	text-align: bottom;
+	background-color: #f5eb90;
+	padding-bottom: 160px;
+	padding-top: 20px;
+}
+.MU2
+{
+	background-color: darkgray ;
+    position: relative;
+    top: 50px;
+    padding: 20px 20px 20px 20px;
+    border: 1 px solid black;
+	
+}
+.MU3
+{
+    background-color: darkgray ;
+    position: relative;
+    
+    padding: 8px 8px 8px 8px;
+    border: 1 px solid black;
+    
+}
+.MU4
+{
+	background-color: #cbf5d6;
+	padding-bottom: 40px;
+	padding-top: 10px;
+	
+}
+.MU5
+{
+	background-color: #b9f576;
+	padding-bottom: 6px;
+	padding-top: 10px;
+	
+}
+.MR1
+{
+	background-color: darkgray ;
+    position: relative;
+    
+    padding: 8px 8px 8px 8px;
+    border: 1 px solid black;
+
+}
+.MR2
+{
+	text-align: center;
+	text-align: bottom;
+	background-color: #f5eb90;
+	padding-bottom: 30px;
+	padding-top: 20px;
+}
+.MR3
+{
+	text-align: center;
+	text-align: bottom;
+	background-color: #f50f5f;
+	padding-bottom: 40px;
+	padding-top: 20px;
+}
